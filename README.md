@@ -81,7 +81,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries or suggestions, please contact:
-- **Email**: your-email@example.com
+- **Email**: kruttibash.panda36@gmail.com
 - **GitHub**: [BMSPQ](https://github.com/BMSPQ)
 
 ---
